@@ -23,31 +23,33 @@
 
 ### auto_upgrades:
 - Function responsible for handling upgrades
-- A very simple function. I initially intended to create a function that performs calculations based on the cost of an upgrade,
-its efficiency, and the time required to gather enough resources for that upgrade. However, the function always ended up
-upgrading the last upgrade regardless of other factors, which was not the desired behavior.
-I’m very curious about the best way to implement this. If you have ideas for a better function, that's me https://github.com/Iombp
+- A very simple function. Initially, I intended to create a function that performs calculations based on the cost of an upgrade, its efficiency, and the time required to gather enough resources for that upgrade. However, the function always ends up upgrading the last upgrade, regardless of other factors, which is not the desired behavior.
 
-close_popups:
-Function responsible for closing pop-ups
+- I'm very curious about the best way to implement this. If you have any ideas for a better function, please give me a hint.
 
-change_bakery_name: 
-Function that notifies everyone that the bot is running (completely useless)
+### close_popups:
+- Function responsible for closing pop-ups
 
-use_lumps:
-Function responsible for using sugar lumps. It upgrades each upgrade evenly 
-(To activate, uncomment lines 385 and 386).
+### change_bakery_name: 
+- Function that notifies everyone that the bot is running (completely useless)
 
-gain_lumps:
-Function responsible for adding a sugar lump. It works very well but may disrupt the fun.
-You can add lumps using the command Game.gainLumps(amount) in the console (press F12).
-(To activate, uncomment lines 388 and 389).
+### use_lumps:
+- (To activate, uncomment lines 385 and 386). ❗ 
+-Function responsible for using sugar lumps. It upgrades each upgrade evenly 
 
-ascend:
-Function ascend: It is advised not to use it may halt the program. 
-Upgrades everything in a specified order (order is random; no calculations were made when creating this bot).
-Function may cause issues with other functions and can disrupt the program.
-I plan to fix this function soon.
+
+### gain_lumps:
+- (To activate, uncomment lines 388 and 389). ❗
+- Function responsible for adding a sugar lump. It works very well but may disrupt the fun.
+- Gives you a sugar lump every 10 seconds, extremely overpowered.
+- If you want to be even more overpowered, you can change the amounts or time in the code (lines from 140 to 143), or simply use Game.gainLumps(999999999999999) in the console (press F12)
+
+
+### ascend: ❗ ❗ ❗ 
+- Function may cause issues with other functions and can disrupt the program.
+- Function ascend: It is advised not to use it may halt the program. 
+- Auto-upgrades are performed in a specified order (chosen by me), but no calculations were made when creating this bot.
+- I plan to fix this function soon.
 
 measure_working_time: 
 Simple function that tracks the runtime duration of the program.
