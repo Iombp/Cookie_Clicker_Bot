@@ -2,6 +2,10 @@ This is my first code that I wrote, and it was a lot of fun to create.
 Please don't take it too seriously; I spent two days on it, and many options might not work as intended. 
 I plan to continue developing and improving the code when I have some free time.
 
+
+
+
+
 Cookie Clicker Bot
 This script is designed to automate tasks in the Cookie Clicker game using Selenium WebDriver.
 
