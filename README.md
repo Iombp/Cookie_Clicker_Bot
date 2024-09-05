@@ -5,16 +5,16 @@
 
 
 # Cookie Clicker Bot
-- This script is designed to automate tasks in the Cookie Clicker game using Selenium WebDriver.
+### This script is designed to automate Cookie Clicker.
 
-- Version
-This script was created using Selenium and Cookie Clicker v2.052. Note that newer features may not be compatible.
+### Version
+- This script was created using Cookie Clicker v2.052. Note that newer features may not be compatible.
 
-- Requirements
-Python 3.x
-Selenium WebDriver
-ChromeDriver
-Make sure to install the required Python packages using:
+### Requirements
+- Python 3.x
+- Selenium WebDriver
+- ChromeDriver
+- Make sure to install the required Python packages using:
 
 
 
