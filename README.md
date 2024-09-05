@@ -1,11 +1,10 @@
+# Cookie Clicker Bot
+### This script is designed to automate Cookie Clicker.
+
 # Hello 👋
 - This is the first code I wrote, and it was a lot of fun to create, so I hope you'll be understanding.
 - Please don't take it too seriously; I spent two days on it, but most features work as intended. 
 - I plan to continue developing and improving the code when I have some free time.
-
-
-# Cookie Clicker Bot
-### This script is designed to automate Cookie Clicker.
 
 # Usage
 - Run the script.
