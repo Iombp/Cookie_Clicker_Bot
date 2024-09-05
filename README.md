@@ -13,17 +13,17 @@
 - To stop the script, press the ESC key.
 - Runtime Issues: If the script fails to execute as expected, ensure that your ChromeDriver is properly set up (line 349).❗❗❗
 
-- # Lastly
+# Lastly
 - You can modify or disable certain functions according to your needs.
 - If you have suggestions for improving this script or if you have developed a better version, please feel free to share your ideas.
 - Have fun 👋
 
-- 
-### Version
-- This script was created using Cookie Clicker v2.052. Note that newer features may not be compatible.
 
 
 # Technical Details
+
+-### Version
+- This script was created using Cookie Clicker v2.052. Note that newer features may not be compatible.
 
 ### Requirements
 - Python 3.x
