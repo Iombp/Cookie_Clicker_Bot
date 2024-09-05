@@ -22,7 +22,7 @@
 
 # Technical Details
 
-- ### Version
+### Version
 - This script was created using Cookie Clicker v2.052. Note that newer features may not be compatible.
 
 ### Requirements
@@ -33,7 +33,7 @@
 
 
 
-### function description
+# function description
 
 ### big_cookie_click:
 - Function responsible for collecting golden cookies and clicking the big cookie
