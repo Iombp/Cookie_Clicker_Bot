@@ -35,7 +35,7 @@
 
 ### use_lumps:
 - (To activate, uncomment lines 385 and 386). ❗ 
--Function responsible for using sugar lumps. It upgrades each upgrade evenly 
+- Function responsible for using sugar lumps. It upgrades each upgrade evenly 
 
 
 ### gain_lumps:
@@ -51,19 +51,15 @@
 - Auto-upgrades are performed in a specified order (chosen by me), but no calculations were made when creating this bot.
 - I plan to fix this function soon.
 
-measure_working_time: 
-Simple function that tracks the runtime duration of the program.
+### measure_working_time: 
+- Simple function that tracks the runtime duration of the program.
 
-upgrade_dragon: 
-Function that upgrades the dragon.
+### upgrade_dragon: 
+- Function that upgrades the dragon.
 
-Chrome Settings Configuration
-The script includes settings to configure Chrome, using a specific user profile.
-
-
-Usage
+# Usage
 Run the script.
-If this is the first run, close all pop-ups that may appear.
+If this is the first run, please close all pop-ups that may appear.❗❗❗
 The script will automatically start performing its tasks.
 To stop the script, press the ESC key.
 
