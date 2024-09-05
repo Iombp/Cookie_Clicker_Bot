@@ -16,16 +16,14 @@
 - ChromeDriver
 - Make sure to install the required Python packages using:
 
+# function description
 
+### big_cookie_click:
+- Function responsible for collecting golden cookies and clicking the big cookie
 
-
-
-big_cookie_click:
-Function responsible for collecting golden cookies and clicking the big cookie
-
-auto_upgrades:
-Function responsible for handling upgrades
-A very simple function. I initially intended to create a function that performs calculations based on the cost of an upgrade,
+### auto_upgrades:
+- Function responsible for handling upgrades
+- A very simple function. I initially intended to create a function that performs calculations based on the cost of an upgrade,
 its efficiency, and the time required to gather enough resources for that upgrade. However, the function always ended up
 upgrading the last upgrade regardless of other factors, which was not the desired behavior.
 I’m very curious about the best way to implement this. If you have ideas for a better function, that's me https://github.com/Iombp
