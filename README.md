@@ -5,7 +5,7 @@ I plan to continue developing and improving the code when I have some free time.
 
 
 
-Cookie Clicker Bot
+# Cookie Clicker Bot
 This script is designed to automate tasks in the Cookie Clicker game using Selenium WebDriver.
 
 Version
