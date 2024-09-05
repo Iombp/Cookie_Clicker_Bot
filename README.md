@@ -7,8 +7,24 @@
 # Cookie Clicker Bot
 ### This script is designed to automate Cookie Clicker.
 
+# Usage
+- Run the script.
+- If this is the first run, please close all pop-ups that may appear.❗❗❗
+- The script will automatically start performing its tasks.
+- To stop the script, press the ESC key.
+- Runtime Issues: If the script fails to execute as expected, ensure that your ChromeDriver is properly set up (line 349).❗❗❗
+
+- # Lastly
+- You can modify or disable certain functions according to your needs.
+- If you have suggestions for improving this script or if you have developed a better version, please feel free to share your ideas.
+- Have fun 👋
+
+- 
 ### Version
 - This script was created using Cookie Clicker v2.052. Note that newer features may not be compatible.
+
+
+# Technical Details
 
 ### Requirements
 - Python 3.x
@@ -16,7 +32,9 @@
 - ChromeDriver
 - Make sure to install the required Python packages using:
 
-# function description
+
+
+### function description
 
 ### big_cookie_click:
 - Function responsible for collecting golden cookies and clicking the big cookie
@@ -57,20 +75,5 @@
 ### upgrade_dragon: 
 - Function that upgrades the dragon.
 
-# Usage
-Run the script.
-If this is the first run, please close all pop-ups that may appear.❗❗❗
-The script will automatically start performing its tasks.
-To stop the script, press the ESC key.
 
-
-Script Modifications: You can modify or disable certain functions according to your needs. For example, if the change_bakery_name function is not required, you can remove it and the associated line from the script.
-
-Runtime Issues: If the script fails to execute as expected, ensure that your ChromeDriver is properly set up.
-
-Contributions
-If you have suggestions for improving this script or if you have developed a better version, please feel free to share your ideas.
-
-License
-This script is provided as-is without warranty of any kind. Use it at your own risk.
 
