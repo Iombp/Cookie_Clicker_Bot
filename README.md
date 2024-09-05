@@ -3,6 +3,7 @@ Please don't take it too seriously; I spent two days on it, and many options mig
 I plan to continue developing and improving the code when I have some free time.
 
 
+
 Cookie Clicker Bot
 This script is designed to automate tasks in the Cookie Clicker game using Selenium WebDriver.
 
