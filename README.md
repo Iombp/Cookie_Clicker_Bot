@@ -1,16 +1,16 @@
 # Hello 👋
-- This is the first code I wrote, and it was a lot of fun to create. 
+- This is the first code I wrote, and it was a lot of fun to create, so I hope you'll be understanding.
 - Please don't take it too seriously; I spent two days on it, but most features work as intended. 
 - I plan to continue developing and improving the code when I have some free time.
 
 
 # Cookie Clicker Bot
-This script is designed to automate tasks in the Cookie Clicker game using Selenium WebDriver.
+- This script is designed to automate tasks in the Cookie Clicker game using Selenium WebDriver.
 
-Version
+- Version
 This script was created using Selenium and Cookie Clicker v2.052. Note that newer features may not be compatible.
 
-Requirements
+- Requirements
 Python 3.x
 Selenium WebDriver
 ChromeDriver
